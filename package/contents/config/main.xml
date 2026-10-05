@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="apiKey" type="String">
+      <label>GreenPT API key (stored in plaintext)</label>
+      <default></default>
+    </entry>
+    <entry name="region" type="String">
+      <label>API region: eu or us</label>
+      <default>eu</default>
+    </entry>
+    <entry name="refreshSeconds" type="Int">
+      <label>Refresh interval in seconds</label>
+      <default>300</default>
+    </entry>
+    <entry name="lowThreshold" type="Double">
+      <label>Low balance threshold (EUR) that turns the label red</label>
+      <default>5.0</default>
+    </entry>
+  </group>
+</kcfg>

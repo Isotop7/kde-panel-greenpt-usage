@@ -1,0 +1,94 @@
+# Translation of credits in LANGUAGE
+# Copyright (C) 2026
+# This file is distributed under the same license as the credits package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: credits\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-05 20:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../contents/config/config.qml
+msgid "General"
+msgstr ""
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "GreenPT"
+msgstr ""
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "API settings"
+msgstr ""
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "API key:"
+msgstr ""
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Paste your GreenPT API key"
+msgstr ""
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Stored in plaintext in the Plasma configuration file"
+msgstr ""
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Region:"
+msgstr ""
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Refresh interval (seconds):"
+msgstr ""
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Low balance threshold (EUR):"
+msgstr ""
+
+#: ../contents/ui/main.qml
+msgid "-.--"
+msgstr ""
+
+#: ../contents/ui/main.qml
+msgid "waiting for first update…"
+msgstr ""
+
+#: ../contents/ui/main.qml
+msgid "Last update:"
+msgstr ""
+
+#: ../contents/ui/main.qml
+msgid "no API key set — configure the widget"
+msgstr ""
+
+#: ../contents/ui/main.qml
+msgid "API key contains invalid characters — fix it in settings"
+msgstr ""
+
+#: ../contents/ui/main.qml
+msgid "invalid API key (HTTP %1)"
+msgstr ""
+
+#: ../contents/ui/main.qml
+msgid "unexpected response (HTTP %1 without balance header)"
+msgstr ""
+
+#: ../contents/ui/main.qml
+msgid "unexpected response (non-numeric balance)"
+msgstr ""
+
+#: ../contents/ui/main.qml
+msgid "network error"
+msgstr ""
+
+#: ../contents/ui/main.qml
+msgid "network timeout"
+msgstr ""

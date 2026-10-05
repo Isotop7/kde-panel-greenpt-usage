@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Id": "dev.greenpt.credits",
+        "Name": "GreenPT Credits",
+        "Icon": "greenpt",
+        "Description": "Shows the remaining GreenPT API credit in the panel",
+        "Version": "1.0",
+        "License": "MIT",
+        "Authors": [
+            {
+                "Name": "Hendrik"
+            }
+        ]
+    },
+    "X-Plasma-API-Minimum-Version": "6"
+}
